@@ -1,25 +1,30 @@
-The development of the application involves three technologies, which is Apache Cordova, Vue CLI and Vue.Js. 
-The design of the mobile application aims to be responsive and also involves the three main types of programming language which are HTML,
-JavaScript and CSS. No bootstrap involved.
+# test
 
-<b> Nice To Have Component </b>
-1. Top Nav Bar, it is nice to have because the navbar will display a lot of useful functions such as About, Settings and many more.
-2. Progress Bar, so the user can have the capability to check the progress of every fitness activity in terms of percentage that they have completed.
-3. "More Detail" button. It will let the user know more about the information related to the activity chosen.
+> A test
 
-<br/><b> How To Run Application on Emulator </b><br/>
-Open the specific file in Command Line and run thus command
-```
-$ cordova add android
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
 ```
 
-then the Android platform is added in the specific file. Continue to run the following command :
-
-```
-$ cordova build
-```
-Cordova will build the whole code in the file. Continue to run the command :
-```
-$ cordova run android
-```
-The system will be open an Android emulator (if able) and the project file will be running on the opened Android emulator.
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
