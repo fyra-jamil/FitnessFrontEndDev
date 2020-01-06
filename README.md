@@ -7,7 +7,7 @@ JavaScript and CSS.
 2. Progress Bar, so the user can have the capability to check the progress of every fitness activity in terms of percentage that they have completed.
 3. `More Detail` button. It will let the user know more about the information related to the activity chosen.
 
-<b> How To Run Application on Emulator </b>
+<b> How To Run Application on Emulator </b><br/>
 Open the specific file in Command Line and run thus command
 ```
 $ cordova add android
