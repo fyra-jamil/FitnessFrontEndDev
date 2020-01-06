@@ -10,14 +10,14 @@ JavaScript and CSS.
 <b> How To Run Application on Emulator </b>
 Open the specific file in Command Line and run thus command
 ```
-cordova add android
+$ cordova add android
 ```
 then the Android platform is added in the specific file. Continue to run the following command :
 ```
-cordova build
+$ cordova build
 ```
 Cordova will build the whole code in the file. Continue to run the command :
 ```
-cordova run android
+$ cordova run android
 ```
 The system will be open an Android emulator (if able) and the project file will be running on the opened Android emulator.
