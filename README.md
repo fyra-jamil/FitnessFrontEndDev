@@ -1,6 +1,6 @@
 The development of the application involves three technologies, which is Apache Cordova, Vue CLI and Vue.Js. 
 The design of the mobile application aims to be responsive and also involves the three main types of programming language which are HTML,
-JavaScript and CSS.
+JavaScript and CSS. No bootstrap involved.
 
 <b> Nice To Have Component </b>
 1. Top Nav Bar, it is nice to have because the navbar will display a lot of useful functions such as About, Settings and many more.
