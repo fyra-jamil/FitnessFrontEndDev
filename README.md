@@ -1,3 +1,6 @@
+
+# Fitness Front End Development
+
 The development of the application involves three technologies, which is Apache Cordova, Vue CLI and Vue.Js. 
 The design of the mobile application aims to be responsive and also involves the three main types of programming language which are HTML,
 JavaScript and CSS. No bootstrap involved.
@@ -21,3 +24,9 @@ Cordova will build the whole code in the file. Continue to run the command :
 $ cordova run android
 ```
 The system will be open an Android emulator (if able) and the project file will be running on the opened Android emulator.
+
+## Support
+If there is any question about the project, feel free to contact me via :
+
+Linked In : https://my.linkedin.com/in/nursyafirajamil<br/>
+Email : afirajamil@gmail.com
